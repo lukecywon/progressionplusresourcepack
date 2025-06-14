@@ -1,6 +1,6 @@
 {
-  "model": {
-    "type": "minecraft:model",
-    "model": "item/phoenix_totem"
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/phoenix_totem"
   }
 }

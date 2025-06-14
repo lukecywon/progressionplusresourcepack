@@ -1,6 +1,6 @@
 {
-  "model": {
-    "type": "minecraft:model",
-    "model": "item/shadow_katana"
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "item/shadow_katana"
   }
 }
