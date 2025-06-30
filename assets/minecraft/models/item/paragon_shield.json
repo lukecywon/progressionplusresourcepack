@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"particle": "paragon_shield",
-		"texture": "paragon_shield"
+		"particle": "item/paragon_shield",
+		"texture": "item/paragon_shield"
 	},
 	"elements": [
 		{
@@ -641,13 +641,6 @@
 			"translation": [0, 0, -0.38],
 			"scale": [2, 2, 2]
 		}
-    },
-    "overrides": [
-        {
-            "predicate": {
-                "blocking": 1
-            },
-            "model": "item/paragon_shield_blocking"
-        }
-    ]
+    }
+                 
 }

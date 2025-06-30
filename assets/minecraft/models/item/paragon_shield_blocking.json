@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"particle": "paragon_shield",
-		"texture": "paragon_shield"
+		"particle": "item/paragon_shield",
+		"texture": "item/paragon_shield"
 	},
 	"elements": [
 		{
