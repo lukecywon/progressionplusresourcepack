@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench",
+	"parent": "item/shield",
 	"textures": {
 		"particle": "item/paragon_shield",
 		"texture": "item/paragon_shield"
@@ -641,6 +641,5 @@
 			"translation": [0, 0, -0.38],
 			"scale": [2, 2, 2]
 		}
-    }
-                 
+    }   
 }
