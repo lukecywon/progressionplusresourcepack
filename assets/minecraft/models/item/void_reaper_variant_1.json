@@ -1,0 +1,7 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "item/void_reaper_variant_1"
+  }
+}
+

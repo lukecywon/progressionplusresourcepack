@@ -2,5 +2,8 @@
   "parent": "item/handheld",
   "textures": {
     "layer0": "item/void_reaper"
-  }
+  },
+  "overrides": [
+    { "predicate": { "custom_model_data": 101 }, "model": "item/void_reaper_variant" }
+  ]
 }
