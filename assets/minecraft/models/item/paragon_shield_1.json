@@ -1,5 +1,5 @@
 {
-	"parent": "item/shield",
+	"parent": "item/handheld",
 	"textures": {
 		"particle": "item/paragon_shield",
 		"texture": "item/paragon_shield"
